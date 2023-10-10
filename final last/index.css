@@ -1,0 +1,14 @@
+*{
+    text-transform: capitalize;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.rrr{
+    background-image: url(./wil-stewart-UErWoQEoMrc-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.rrr1{
+    background-color: rgba(35, 35, 36, 0.699);
+}
